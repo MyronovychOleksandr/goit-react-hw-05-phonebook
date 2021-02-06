@@ -1,0 +1,49 @@
+.container {
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+}
+
+.phonebookHeader{
+    margin: 20px 0;
+    font-size: 50px;
+    color:rgb(43, 43, 153);
+    text-transform: uppercase;
+}
+
+/* .appear {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  
+  .appearActive {
+    opacity: 1;
+    transform: translateX(0);
+    transition: all 250ms linear;
+  } 
+
+  .enter {
+    opacity: 0;
+    transform: scale(0.1);
+  }
+  
+  .enterActive {
+    opacity: 1;
+    transform: scale(1);
+    transition: all 250ms linear;
+  }
+  
+  .exit {
+    opacity: 1;
+    transform: scale(1);
+  }
+  
+  .exitActive {
+    opacity: 0;    
+    transform: scale(0.1);
+    transition: all 250ms linear;
+  } */
+
+  

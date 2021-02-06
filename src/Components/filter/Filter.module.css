@@ -1,0 +1,23 @@
+.container {
+    padding: 10px 0px;
+    margin-bottom: 15px;
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-size: 22px;
+    padding: 10px;
+}
+
+.input {
+    width: 99%;
+    height: 30px;
+    font-size: 18px;
+    padding-left: 5px;
+    /* border-radius: 5px; */
+}
